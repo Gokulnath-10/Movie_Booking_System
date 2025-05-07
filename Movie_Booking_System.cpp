@@ -14,7 +14,7 @@ public:
     BookingSystem() {
         movies.push_back({"Jailer", 120});
         movies.push_back({"Avengers", 75});
-        movies.push_back({"Avatar", 90});
+        movies.push_back({"Avatar", 100});
     }
     void displayMovies() {
         cout << "Available Movies:\n";
